@@ -1,7 +1,7 @@
 # CyberScope Report
 
 This report details the CyberScope tool, a collection of functionalities relevant to cybersecurity assessments. The information is based on the repository uploaded by AreebaaaaK and likely leverages NIVOS for some components.
-It is important to note that while CyberScope may include functionalities for tasks like scanning networks and websites, it's crucial to understand the legal and ethical implications before using such tools. Performing security assessments on systems without proper authorization is illegal and can be harmful.
+It is important to note that while CyberScope includes functionalities for tasks like scanning networks and websites, it's crucial to understand the legal and ethical implications before using such tools. Performing security assessments on systems without proper authorization is illegal and can be harmful.
 
 ## Components
 
